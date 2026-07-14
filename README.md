@@ -1,4 +1,4 @@
-# Virtualized-IT-Infrastructure-Security-Homelab
+# Virtualized IT Infrastructure Security Homelab
 
 <h2>Description</h2>
 

@@ -2,7 +2,6 @@
 
 <h2>Description</h2>
 
-# Virtualized IT Infrastructure & Security Homelab
 
 A self-built homelab simulating enterprise IT infrastructure for hands-on practice in IT support and cybersecurity. Built on a single physical machine running Proxmox VE, with network segmentation, a virtual firewall, and an isolated LAN environment.
 
